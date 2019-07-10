@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change network card in server 007",
+      "attention": false,
+      "tech": "Alberto Caparrós",
+      "date": "2019-07-09T14:31:03.120Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed harddrive in workstation 002",
+      "attention": true,
+      "tech": "Tech Lead",
+      "date": "2019-07-09T14:51:05.124Z"
+    },
+    {
+      "id": 3,
+      "message": "Fixed everything in the world",
+      "attention": false,
+      "tech": "Tech Lead",
+      "date": "2019-07-09T14:32:46.272Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Alberto",
+      "lastName": "Caparrós"
+    },
+    {
+      "id": 2,
+      "firstName": "Tech",
+      "lastName": "Lead"
+    },
+    {
+      "id": 3,
+      "firstName": "John",
+      "lastName": "Doe"
+    }
+  ]
+}
